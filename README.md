@@ -75,68 +75,6 @@ stack_depth:
 
 <div align="center">
 
-### ◈ Signature Project
-
-</div>
-
-<table>
-<tr>
-<td valign="top">
-
-**[🎯 Pro Cert Radar v3.0](https://github.com/Anmolsarowa/certificatio)** — *Intelligent Certification Voucher Hunter*
-
-An autonomous monitoring system that scans **21 real-time sources** every 30 minutes — Reddit, Google News, Microsoft Learn, Ignite, Build — for free & discounted Microsoft certification vouchers across Azure, Power Platform, and Dynamics 365.
-
-```
-Architecture:
-─────────────────────────────────────────────────────
-  RSS Feeds (21)  ──►  Scoring Engine v3.0  ──►  Email
-  Web Scrapers (6) ─►  (4-Gate Pipeline)    ──►  Alert
-─────────────────────────────────────────────────────
-  Gate 1: Negative Keyword Exclusion (30+ terms)
-  Gate 2: Microsoft Tech Domain Verification
-  Gate 3: Multi-Signal Score Threshold (≥3 pts)
-  Gate 4: Actionability Check (is this a real deal?)
-─────────────────────────────────────────────────────
-```
-
-<sub>**Stack:** Python · GitHub Actions · feedparser · BeautifulSoup · SMTP</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### ◈ Certifications & Exam Coverage
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="16%"><b>Azure</b><br><sub>AZ-900 · AZ-104<br>AZ-204 · AZ-305<br>AZ-400 · AZ-500</sub></td>
-<td align="center" width="16%"><b>Data & AI</b><br><sub>DP-900 · DP-600<br>AI-900 · AI-102<br>AI-500</sub></td>
-<td align="center" width="16%"><b>Security</b><br><sub>SC-900 · SC-200<br>SC-300 · SC-400<br>SC-100</sub></td>
-<td align="center" width="16%"><b>Power Platform</b><br><sub>PL-900 · PL-200<br>PL-300 · PL-400<br>PL-600</sub></td>
-<td align="center" width="16%"><b>Dynamics 365</b><br><sub>MB-910 · MB-210<br>MB-300 · MB-800<br>MB-920</sub></td>
-<td align="center" width="16%"><b>Microsoft 365</b><br><sub>MS-900 · MS-102<br>MS-700 · MD-102<br>&nbsp;</sub></td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 
 <br><br>
