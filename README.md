@@ -1,173 +1,168 @@
 <div align="center">
 
-```text
-    _    _   _ __  90L    ____    _    ____  ______A__      AA 
-   / \  | \ | |  \/  |/ \  |  _ \  / \  / ___||  _ \ \    / / 
-  / _ \ |  \| | |\/| / _ \ | |_) |/ _ \ \___ \| |_) \ \  / /  
- / ___ \| |\  | |  | / ___ \|  _ </ ___ \ ___) |  _ < \ \/ /   
-/_/   \_\_| \_|_|  |/_/   \_\_| \_\_/   \_\____/|_| \_\ \__/    
-                                                               
-       [ ENTERPRISE CLOUD ARCHITECT • POWER PLATFORM SPECIALIST • AI ENGINEER ]
-```
+<br>
 
-  <!-- Quick Social Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/anmolsarowa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/Anmolsarowa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="mailto:anmol@defactoinfotech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
+<!-- Clean animated header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
+
+<br>
+
+<a href="https://linkedin.com/in/anmolsarowa"><img src="https://img.shields.io/badge/-%20LinkedIn-black?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:anmol@defactoinfotech.com"><img src="https://img.shields.io/badge/-%20Mail-black?style=flat&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://github.com/Anmolsarowa"><img src="https://img.shields.io/badge/-%20GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
 
 </div>
 
----
+```
+I architect intelligent enterprise systems at the intersection of
+Microsoft Cloud, Power Platform, and Generative AI.
 
-### 🖥️ Terminal System Status (`fastfetch` / `neofetch`)
-
-```text
-       /\        anmol@cloud-architect
-      /  \       ----------------------------------------------------
-     /\   \      OS          :: Cloud Enterprise Environment
-    /      \     ROLE        :: Senior Cloud & Enterprise Automation Architect
-   /   ,,   \    CORE        :: Microsoft Power Platform | Azure | AI Agents
-  /   |  |  -\   ECOSYSTEM   :: Dynamics 365 | Copilot Studio | Fabric
- /_-''    ''-_\  SHELL       :: PowerShell 7.4 / zsh / bash
-                 IDE         :: VS Code / Cursor AI / Visual Studio
-                 STATUS      :: 🟢 Active & Architecting Intelligent Solutions
-                 LOCATION    :: India 🇮🇳 (Global Operations)
+Currently building autonomous monitoring engines, agentic workflows,
+and scalable low-code enterprise architectures that serve thousands.
 ```
 
----
+<br>
 
-### 📊 ASCII Proficiency Metrics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-[████████████████████] 100% - Microsoft Power Platform (Power Apps, Automate, BI)
-[██████████████████░░]  90% - Azure Cloud Services & DevOps Pipelines
-[█████████████████░░░]  85% - Dynamics 365 & Copilot Studio Integrations
-[████████████████░░░░]  80% - Python, Generative AI & Autonomous Agents
-[███████████████░░░░░]  75% - Full-Stack C# / .NET Core & React / Next.js
-```
+### ◈ What I Build
 
----
+**Cloud & Enterprise Architecture**
+<sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub>
 
-### 💫 Executive Overview
+**Power Platform Solutions**
+<sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub>
+
+**AI & Automation Systems**
+<sub>Autonomous Agents · LangChain · OpenAI · Python</sub>
+
+**DevOps & Infrastructure**
+<sub>GitHub Actions · Docker · Kubernetes · Terraform</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ How I Work
 
 ```yaml
-system_config:
-  identity: Anmol Sarowa
-  designation: Enterprise Cloud Architect
-  mission: "Build resilient, ultra-scalable enterprise cloud solutions & AI automations"
-  core_competencies:
-    - End-to-end Microsoft Power Platform Architecture
-    - Azure Infrastructure, Functions, & CI/CD Pipelines
-    - Generative AI & Agentic Workflow Systems
-    - Dynamics 365 Business Applications & Integrations
+philosophy:
+  - Ship production-grade, not prototypes
+  - Automate anything that runs twice
+  - Architecture-first, code-second
+  - Measure everything, assume nothing
+
+stack_depth:
+  power_platform: ██████████ expert
+  azure_cloud:    █████████░ advanced
+  dynamics_365:   █████████░ advanced
+  ai_agents:      ████████░░ proficient
+  full_stack:     ███████░░░ skilled
 ```
 
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
-### 🛠️ Tech Arsenal & Skill Matrix
+<br>
 
 <div align="center">
 
-#### ☁️ Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%23584E59.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-#### ⚡ Microsoft Power Platform & Dynamics 365
-![Power Apps](https://img.shields.io/badge/Power%20Apps-%23742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-%230066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-%23002060.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Copilot-%2300A4EF.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-%23008080.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-
-#### 🤖 AI & Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### ◈ Signature Project
 
 </div>
 
----
+<table>
+<tr>
+<td valign="top">
 
-### 🎯 Featured Architecture: Pro Cert Radar v3.0
+**[🎯 Pro Cert Radar v3.0](https://github.com/Anmolsarowa/certificatio)** — *Intelligent Certification Voucher Hunter*
 
-```text
-pro-cert-radar-v3.0/
-├── 📡 RSS Ingestion Engine (Google News, Subreddits, MS Learn)
-├── 🌐 Web Scrapers (Ignite Hub, Build Hub, 30 Days to Learn It)
-├── 🧠 Scoring Engine v3.0 (Title-Priority + Actionability Gate)
-├── 🛡️ Spam & Study-Tip Exclusion Filter (30+ Negative Keywords)
-└── 📧 Multi-Recipient HTML Alert Delivery (Gmail SMTP)
+An autonomous monitoring system that scans **21 real-time sources** every 30 minutes — Reddit, Google News, Microsoft Learn, Ignite, Build — for free & discounted Microsoft certification vouchers across Azure, Power Platform, and Dynamics 365.
+
+```
+Architecture:
+─────────────────────────────────────────────────────
+  RSS Feeds (21)  ──►  Scoring Engine v3.0  ──►  Email
+  Web Scrapers (6) ─►  (4-Gate Pipeline)    ──►  Alert
+─────────────────────────────────────────────────────
+  Gate 1: Negative Keyword Exclusion (30+ terms)
+  Gate 2: Microsoft Tech Domain Verification
+  Gate 3: Multi-Signal Score Threshold (≥3 pts)
+  Gate 4: Actionability Check (is this a real deal?)
+─────────────────────────────────────────────────────
 ```
 
+<sub>**Stack:** Python · GitHub Actions · feedparser · BeautifulSoup · SMTP</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="100%" valign="top">
-        <h3 align="center">🎯 Pro Cert Radar v3.0</h3>
-        <p align="center">
-          <a href="https://github.com/Anmolsarowa/certificatio">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmolsarowa&repo=certificatio&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="certificatio" />
-          </a>
-        </p>
-        <p align="center">
-          Automated multi-source scanner monitoring 21+ streams for Microsoft Azure, Power Apps, and Dynamics 365 certification vouchers & 50% discount challenges. Built with Python, GitHub Actions & multi-signal scoring engines.
-        </p>
-      </td>
-    </tr>
-  </table>
+### ◈ Certifications & Exam Coverage
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="16%"><b>Azure</b><br><sub>AZ-900 · AZ-104<br>AZ-204 · AZ-305<br>AZ-400 · AZ-500</sub></td>
+<td align="center" width="16%"><b>Data & AI</b><br><sub>DP-900 · DP-600<br>AI-900 · AI-102<br>AI-500</sub></td>
+<td align="center" width="16%"><b>Security</b><br><sub>SC-900 · SC-200<br>SC-300 · SC-400<br>SC-100</sub></td>
+<td align="center" width="16%"><b>Power Platform</b><br><sub>PL-900 · PL-200<br>PL-300 · PL-400<br>PL-600</sub></td>
+<td align="center" width="16%"><b>Dynamics 365</b><br><sub>MB-910 · MB-210<br>MB-300 · MB-800<br>MB-920</sub></td>
+<td align="center" width="16%"><b>Microsoft 365</b><br><sub>MS-900 · MS-102<br>MS-700 · MD-102<br>&nbsp;</sub></td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### ◈ GitHub Metrics
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anmolsarowa&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=6E7681&icon_color=8B949E&ring_color=58A6FF" alt="Stats" width="420" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolsarowa&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=6E7681&currStreakNum=C9D1D9&sideNums=8B949E&dates=6E7681" alt="Streak" width="420" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anmolsarowa&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophies" />
+
+<br>
 
 </div>
 
 ---
 
-### 🏆 Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anmolsarowa&theme=onedark&no-frame=true&no-background=true&margin-w=15" alt="Trophies" />
-</div>
-
----
-
-### 📊 Real-Time GitHub Analytics
+<br>
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Anmolsarowa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolsarowa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
+<img src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolsarowa&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&alarm=FF1744" alt="Streak Stats" width="760" />
+<br><br>
 
-</div>
+<sub>Less noise. More signal. Ship it.</sub>
 
----
-
-### 🐍 Contribution Grid Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed & Maintained by <a href="https://github.com/Anmolsarowa">Anmol Sarowa</a> • Enterprise Cloud Solutions</sub>
 </div>
