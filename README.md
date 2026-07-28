@@ -137,28 +137,6 @@ Architecture:
 
 <div align="center">
 
-### ◈ GitHub Metrics
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anmolsarowa&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=6E7681&icon_color=8B949E&ring_color=58A6FF" alt="Stats" width="420" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolsarowa&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=6E7681&currStreakNum=C9D1D9&sideNums=8B949E&dates=6E7681" alt="Streak" width="420" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anmolsarowa&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophies" />
-
-<br>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 
 <br><br>
