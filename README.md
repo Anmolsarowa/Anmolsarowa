@@ -2,8 +2,8 @@
 
 <br>
 
-<!-- Clean animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
+<!-- Animated Name Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
 
 <br>
 
@@ -14,6 +14,16 @@
 </p>
 
 <br>
+
+<!-- Custom Animated Space Rocket SVG Banner -->
+<img src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/main/assets/rocket-animation.svg" width="100%" alt="Rocket Launch Animation" />
+
+<br><br>
+
+<!-- Animated Science Evolution Terminal SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=%F0%9F%94%AC+EVOLUTION+01%3A+MATHEMATICS+%26+PHYSICAL+LAWS;%E2%9A%A1+EVOLUTION+02%3A+SILICON%2C+NETWORKS+%26+AZURE+CLOUD;%F0%9F%A7%A0+EVOLUTION+03%3A+AUTONOMOUS+AI+AGENTS+%26+POWER+PLATFORM;%F0%9F%9A%80+EVOLUTION+04%3A+DEEP+TECH%2C+SPACE+COMPUTE+%26+BEYOND;%E2%9C%A8+ARCHITECTING+THE+FUTURE+OF+ENTERPRISE+TECHNOLOGY" alt="Science Evolution Animation" />
+
+<br><br>
 
 </div>
 
@@ -64,80 +74,6 @@ stack_depth:
   ai_agents:      ████████░░ proficient
   full_stack:     ███████░░░ skilled
 ```
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 🚀 The Evolution of Human Science & Technology
-
-```text
- 🌍 EARTH & DISCOVERY ──► ⚡ INDUSTRIAL & ELECTRIC ──► 💻 SILICON & CLOUD ──► 🚀 SPACE & AI FRONTIER
-```
-
-<br>
-
-```text
-                               🚀
-                               /\
-                              /  \
-                             |  || |
-                             |  || |
-                            /|  || |\
-                           / |  || | \
-                          |  |  || |  |
-                         /|  |  || |  |\
-                        / |  |  || |  | \
-                       |  |  |  || |  |  |
-                      /   |  |  || |  |   \
-                     |    |__|__||__| |    |
-                          /  /  ||  \  \
-                         /  /   ||   \  \
-                        /  /    ||    \  \
-                       (  (     ||     )  )
-                        \  \    ||    /  /
-                         \__\   ||   /__/
-                                ||
-                                🔥
-     [ MISSION: EXPANDING HUMAN FRONTIERS THROUGH CLOUD, CODE & AI ]
-```
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-#### 🌌 01. Physics & Discovery
-<sub>Mathematics · Classical Mechanics · Quantum Theory · Orbital Mechanics</sub>
-
-</td>
-<td width="25%" valign="top">
-
-#### ⚡ 02. Silicon & Infrastructure
-<sub>Microprocessors · Distributed Networks · Azure Cloud · Data Fabric</sub>
-
-</td>
-<td width="25%" valign="top">
-
-#### 🧠 03. Cognitive Intelligence
-<sub>Neural Networks · LLMs · Autonomous AI Agents · LangChain</sub>
-
-</td>
-<td width="25%" valign="top">
-
-#### 🚀 04. The Next Frontier
-<sub>Autonomous Systems · Enterprise Automation · Space Compute · Deep Tech</sub>
 
 </td>
 </tr>
