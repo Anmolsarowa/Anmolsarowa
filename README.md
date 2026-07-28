@@ -3,15 +3,17 @@
 <br>
 
 <!-- Clean animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
 
 <br>
 
-<a href="https://linkedin.com/in/anmolsarowa"><img src="https://img.shields.io/badge/-%20LinkedIn-black?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:anmol@defactoinfotech.com"><img src="https://img.shields.io/badge/-%20Mail-black?style=flat&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://github.com/Anmolsarowa"><img src="https://img.shields.io/badge/-%20GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/anmolsarowa"><img src="https://img.shields.io/badge/-%20LinkedIn-black?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:anmol@defactoinfotech.com"><img src="https://img.shields.io/badge/-%20Mail-black?style=flat&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Anmolsarowa"><img src="https://img.shields.io/badge/-%20GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<br><br>
+<br>
 
 </div>
 
@@ -19,8 +21,8 @@
 I architect intelligent enterprise systems at the intersection of
 Microsoft Cloud, Power Platform, and Generative AI.
 
-Currently building autonomous monitoring engines, agentic workflows,
-and scalable low-code enterprise architectures that serve thousands.
+Driven by the relentless evolution of human science, space exploration,
+and autonomous computing systems.
 ```
 
 <br>
@@ -29,15 +31,15 @@ and scalable low-code enterprise architectures that serve thousands.
 <tr>
 <td width="50%" valign="top">
 
-### ◈ What I Build
+### ◈ Engineering Domains
 
-**Cloud & Enterprise Architecture**
+**Cloud & Enterprise Systems**
 <sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub>
 
 **Power Platform Solutions**
 <sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub>
 
-**AI & Automation Systems**
+**AI & Automation Engines**
 <sub>Autonomous Agents · LangChain · OpenAI · Python</sub>
 
 **DevOps & Infrastructure**
@@ -46,7 +48,7 @@ and scalable low-code enterprise architectures that serve thousands.
 </td>
 <td width="50%" valign="top">
 
-### ◈ How I Work
+### ◈ Core Operating System
 
 ```yaml
 philosophy:
@@ -75,32 +77,67 @@ stack_depth:
 
 <div align="center">
 
-### ◈ Signature Project
+### 🚀 The Evolution of Human Science & Technology
+
+```text
+ 🌍 EARTH & DISCOVERY ──► ⚡ INDUSTRIAL & ELECTRIC ──► 💻 SILICON & CLOUD ──► 🚀 SPACE & AI FRONTIER
+```
+
+<br>
+
+```text
+                               🚀
+                               /\
+                              /  \
+                             |  || |
+                             |  || |
+                            /|  || |\
+                           / |  || | \
+                          |  |  || |  |
+                         /|  |  || |  |\
+                        / |  |  || |  | \
+                       |  |  |  || |  |  |
+                      /   |  |  || |  |   \
+                     |    |__|__||__| |    |
+                          /  /  ||  \  \
+                         /  /   ||   \  \
+                        /  /    ||    \  \
+                       (  (     ||     )  )
+                        \  \    ||    /  /
+                         \__\   ||   /__/
+                                ||
+                                🔥
+     [ MISSION: EXPANDING HUMAN FRONTIERS THROUGH CLOUD, CODE & AI ]
+```
 
 </div>
 
+<br>
+
 <table>
 <tr>
-<td valign="top">
+<td width="25%" valign="top">
 
-**[🎯 Pro Cert Radar v3.0](https://github.com/Anmolsarowa/certificatio)** — *Intelligent Certification Voucher Hunter*
+#### 🌌 01. Physics & Discovery
+<sub>Mathematics · Classical Mechanics · Quantum Theory · Orbital Mechanics</sub>
 
-An autonomous monitoring system that scans **21 real-time sources** every 30 minutes — Reddit, Google News, Microsoft Learn, Ignite, Build — for free & discounted Microsoft certification vouchers across Azure, Power Platform, and Dynamics 365.
+</td>
+<td width="25%" valign="top">
 
-```
-Architecture:
-─────────────────────────────────────────────────────
-  RSS Feeds (21)  ──►  Scoring Engine v3.0  ──►  Email
-  Web Scrapers (6) ─►  (4-Gate Pipeline)    ──►  Alert
-─────────────────────────────────────────────────────
-  Gate 1: Negative Keyword Exclusion (30+ terms)
-  Gate 2: Microsoft Tech Domain Verification
-  Gate 3: Multi-Signal Score Threshold (≥3 pts)
-  Gate 4: Actionability Check (is this a real deal?)
-─────────────────────────────────────────────────────
-```
+#### ⚡ 02. Silicon & Infrastructure
+<sub>Microprocessors · Distributed Networks · Azure Cloud · Data Fabric</sub>
 
-<sub>**Stack:** Python · GitHub Actions · feedparser · BeautifulSoup · SMTP</sub>
+</td>
+<td width="25%" valign="top">
+
+#### 🧠 03. Cognitive Intelligence
+<sub>Neural Networks · LLMs · Autonomous AI Agents · LangChain</sub>
+
+</td>
+<td width="25%" valign="top">
+
+#### 🚀 04. The Next Frontier
+<sub>Autonomous Systems · Enterprise Automation · Space Compute · Deep Tech</sub>
 
 </td>
 </tr>
@@ -114,55 +151,22 @@ Architecture:
 
 <div align="center">
 
-### ◈ Certifications & Exam Coverage
+### ⚡ Technical Stack Matrix
 
-</div>
-
-<table>
-<tr>
-<td align="center" width="16%"><b>Azure</b><br><sub>AZ-900 · AZ-104<br>AZ-204 · AZ-305<br>AZ-400 · AZ-500</sub></td>
-<td align="center" width="16%"><b>Data & AI</b><br><sub>DP-900 · DP-600<br>AI-900 · AI-102<br>AI-500</sub></td>
-<td align="center" width="16%"><b>Security</b><br><sub>SC-900 · SC-200<br>SC-300 · SC-400<br>SC-100</sub></td>
-<td align="center" width="16%"><b>Power Platform</b><br><sub>PL-900 · PL-200<br>PL-300 · PL-400<br>PL-600</sub></td>
-<td align="center" width="16%"><b>Dynamics 365</b><br><sub>MB-910 · MB-210<br>MB-300 · MB-800<br>MB-920</sub></td>
-<td align="center" width="16%"><b>Microsoft 365</b><br><sub>MS-900 · MS-102<br>MS-700 · MD-102<br>&nbsp;</sub></td>
-</tr>
-</table>
-
-<br>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Dynamics_365-002060?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 <br>
 
-<div align="center">
-
-### ◈ GitHub Metrics
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anmolsarowa&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=6E7681&icon_color=8B949E&ring_color=58A6FF" alt="Stats" width="420" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolsarowa&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=6E7681&currStreakNum=C9D1D9&sideNums=8B949E&dates=6E7681" alt="Streak" width="420" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anmolsarowa&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophies" />
-
-<br>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-
-<br><br>
-
-<sub>Less noise. More signal. Ship it.</sub>
+<sub>Pushing the boundaries of technology. From code to orbit. 🌌</sub>
 
 </div>
