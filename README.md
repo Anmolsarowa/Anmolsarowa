@@ -76,13 +76,28 @@ stack_depth:
 
 ### Tech Stack
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=azure,dotnet,cs,py,ts,js,react,nodejs,docker,kubernetes,terraform,github,vscode,powershell,postgres,mongodb&perline=8&theme=dark" alt="Tech Stack" />
-
-<br>
-
 </div>
+
+```text
+system_architecture/
+├── ☁️ cloud_&_platforms/
+│   ├── azure_cloud
+│   ├── power_platform
+│   └── dynamics_365
+├── 🤖 ai_&_automation/
+│   ├── autonomous_agents
+│   ├── langchain
+│   └── openai_models
+├── ⚙️ backend_&_devops/
+│   ├── python & c# (.net)
+│   ├── docker & kubernetes
+│   └── terraform & github_actions
+└── 💾 databases_&_tools/
+    ├── postgresql & mongodb
+    └── react & typescript
+```
+
+<br>
 
 <br>
 
