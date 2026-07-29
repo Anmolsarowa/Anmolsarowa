@@ -25,47 +25,52 @@
 
 </div>
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<div align="center">
+  <h3>✦ What I Build ✦</h3>
+</div>
 
-### What I Build
+> **☁️ Cloud & Enterprise Architecture**
+> <br>
+> <sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub>
+> <br><br>
+> **⚡ Power Platform Solutions**
+> <br>
+> <sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub>
+> <br><br>
+> **🤖 AI & Automation Systems**
+> <br>
+> <sub>Autonomous Agents · LangChain · OpenAI · Python</sub>
+> <br><br>
+> **⚙️ DevOps & Infrastructure**
+> <br>
+> <sub>GitHub Actions · Docker · Kubernetes · Terraform</sub>
 
-**Cloud & Enterprise Architecture**
-<br><sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub><br><br>
+<br><br>
 
-**Power Platform Solutions**
-<br><sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub><br><br>
+<div align="center">
+  <h3>✦ How I Work ✦</h3>
+</div>
 
-**AI & Automation Systems**
-<br><sub>Autonomous Agents · LangChain · OpenAI · Python</sub><br><br>
+<details>
+  <summary><b>▸ Guiding Principles</b></summary>
+  <blockquote>
+    • Ship production-grade, not prototypes<br>
+    • Automate anything that runs twice<br>
+    • Architecture-first, code-second<br>
+    • Measure everything, assume nothing
+  </blockquote>
+</details>
 
-**DevOps & Infrastructure**
-<br><sub>GitHub Actions · Docker · Kubernetes · Terraform</sub>
-
-</td>
-<td width="50%" valign="top" style="border: none;">
-
-### How I Work
-
-```yaml
-principles:
-  - Ship production-grade, not prototypes
-  - Automate anything that runs twice
-  - Architecture-first, code-second
-  - Measure everything, assume nothing
-
-stack_depth:
-  power_platform: ●●●●●●●●●● expert
-  azure_cloud:    ●●●●●●●●●○ advanced
-  dynamics_365:   ●●●●●●●●●○ advanced
-  ai_agents:      ●●●●●●●●○○ proficient
-  full_stack:     ●●●●●●●○○○ skilled
-```
-
-</td>
-</tr>
-</table>
+<details>
+  <summary><b>▸ Technology Depth</b></summary>
+  <blockquote>
+    <code>Power Platform : ●●●●●●●●●● Expert</code><br>
+    <code>Azure Cloud    : ●●●●●●●●●○ Advanced</code><br>
+    <code>Dynamics 365   : ●●●●●●●●●○ Advanced</code><br>
+    <code>AI Agents      : ●●●●●●●●○○ Proficient</code><br>
+    <code>Full Stack     : ●●●●●●●○○○ Skilled</code>
+  </blockquote>
+</details>
 
 <br><br><br>
 
