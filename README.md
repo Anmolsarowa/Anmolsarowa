@@ -70,37 +70,6 @@ stack_depth:
 
 ---
 
-<br>
-
-<div align="center">
-
-### Tech Stack
-
-</div>
-
-```text
-system_architecture/
-├── ☁️ cloud_&_platforms/
-│   ├── azure_cloud
-│   ├── power_platform
-│   └── dynamics_365
-├── 🤖 ai_&_automation/
-│   ├── autonomous_agents
-│   ├── langchain
-│   └── openai_models
-├── ⚙️ backend_&_devops/
-│   ├── python & c# (.net)
-│   ├── docker & kubernetes
-│   └── terraform & github_actions
-└── 💾 databases_&_tools/
-    ├── postgresql & mongodb
-    └── react & typescript
-```
-
-<br>
-
-<br>
-
 ---
 
 <br>
