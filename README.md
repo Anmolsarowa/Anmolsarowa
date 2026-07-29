@@ -29,19 +29,19 @@
   <h3>✦ What I Build ✦</h3>
 </div>
 
-> **☁️ Cloud & Enterprise Architecture**
+> **Cloud & Enterprise Architecture**
 > <br>
 > <sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub>
 > <br><br>
-> **⚡ Power Platform Solutions**
+> **Power Platform Solutions**
 > <br>
 > <sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub>
 > <br><br>
-> **🤖 AI & Automation Systems**
+> **AI & Automation Systems**
 > <br>
 > <sub>Autonomous Agents · LangChain · OpenAI · Python</sub>
 > <br><br>
-> **⚙️ DevOps & Infrastructure**
+> **DevOps & Infrastructure**
 > <br>
 > <sub>GitHub Actions · Docker · Kubernetes · Terraform</sub>
 
