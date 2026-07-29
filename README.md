@@ -1,6 +1,6 @@
 <div align="center">
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
 
@@ -10,40 +10,41 @@
 <a href="mailto:anmol@defactoinfotech.com"><img src="https://img.shields.io/badge/-%20Mail-black?style=flat&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;&nbsp;
 <a href="https://github.com/Anmolsarowa"><img src="https://img.shields.io/badge/-%20GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 
+<br><br><br>
+
+<p align="center">
+  <i>
+    I architect intelligent enterprise systems at the intersection of <br>
+    Microsoft Cloud, Power Platform, and Generative AI. <br><br>
+    Currently building autonomous monitoring engines, agentic workflows, <br>
+    and scalable low-code enterprise architectures that serve thousands.
+  </i>
+</p>
+
 <br><br>
 
 </div>
 
-```
-I architect intelligent enterprise systems at the intersection of
-Microsoft Cloud, Power Platform, and Generative AI.
-
-Currently building autonomous monitoring engines, agentic workflows,
-and scalable low-code enterprise architectures that serve thousands.
-```
-
-<br>
-
-<table>
+<table width="100%" style="border: none;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ### What I Build
 
 **Cloud & Enterprise Architecture**
-<sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub>
+<br><sub>Azure · Dynamics 365 · Microsoft 365 · Fabric</sub><br><br>
 
 **Power Platform Solutions**
-<sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub>
+<br><sub>Power Apps · Power Automate · Power BI · Copilot Studio</sub><br><br>
 
 **AI & Automation Systems**
-<sub>Autonomous Agents · LangChain · OpenAI · Python</sub>
+<br><sub>Autonomous Agents · LangChain · OpenAI · Python</sub><br><br>
 
 **DevOps & Infrastructure**
-<sub>GitHub Actions · Docker · Kubernetes · Terraform</sub>
+<br><sub>GitHub Actions · Docker · Kubernetes · Terraform</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ### How I Work
 
@@ -55,71 +56,37 @@ principles:
   - Measure everything, assume nothing
 
 stack_depth:
-  power_platform: ██████████ expert
-  azure_cloud:    █████████░ advanced
-  dynamics_365:   █████████░ advanced
-  ai_agents:      ████████░░ proficient
-  full_stack:     ███████░░░ skilled
+  power_platform: ●●●●●●●●●● expert
+  azure_cloud:    ●●●●●●●●●○ advanced
+  dynamics_365:   ●●●●●●●●●○ advanced
+  ai_agents:      ●●●●●●●●○○ proficient
+  full_stack:     ●●●●●●●○○○ skilled
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
-
----
-
----
-
-<br>
+<br><br><br>
 
 <div align="center">
 
-### Contribution Skyline
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="85%" />
 
-<br>
+<br><br><br>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolsarowa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=161B22&area=true&hide_border=true&custom_title=" width="85%" alt="Activity Graph" />
 
-<br>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### Activity
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolsarowa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=161B22&area=true&hide_border=true&custom_title=" width="100%" alt="Activity Graph" />
-
-<br>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
+<br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Anmolsarowa/Anmolsarowa/output/github-contribution-grid-snake.svg" width="85%" />
 </picture>
 
-<br><br>
+<br><br><br>
 
-<sub>Less noise. More signal. Ship it.</sub>
+<sub><i>Less noise. More signal. Ship it.</i></sub>
 
 </div>
