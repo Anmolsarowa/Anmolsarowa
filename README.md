@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%94%80%E2%94%80%E2%94%80+ANMOL+SAROWA+%E2%94%80%E2%94%80%E2%94%80;Enterprise+Cloud+%26+Automation+Architect" alt="Header" />
 
-<br>
-
-<a href="https://linkedin.com/in/anmolsarowa"><img src="https://img.shields.io/badge/-%20LinkedIn-black?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:anmol@defactoinfotech.com"><img src="https://img.shields.io/badge/-%20Mail-black?style=flat&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://github.com/Anmolsarowa"><img src="https://img.shields.io/badge/-%20GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-
 <br><br><br>
 
 <p align="center">
